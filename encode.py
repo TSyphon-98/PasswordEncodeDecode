@@ -1,3 +1,4 @@
+#Nathan McTear
 def encode(password):
     encoded_password = ''
     for i in range(len(password)):
